@@ -1,4 +1,4 @@
-# CodeAlpha_Securing_Code
+
 # 🔒 Securing Python Code with Bandit
 
 This project focuses on securing Python code using the Bandit tool, which identifies security vulnerabilities in Python applications. Ensure to review and address the issues flagged by Bandit for improved code security.
